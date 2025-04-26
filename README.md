@@ -52,6 +52,7 @@ Special thanks to open hotel booking datasets and the machine learning community
 
 # 🔗 Connect with Me
 Shiva Kumar Yadav
-https://www.linkedin.com/in/shivayadav28/
+LinkedIn - https://www.linkedin.com/in/shivayadav28/
+portfolio - https://shivayadav28.github.io/
 
 
